@@ -1,0 +1,11 @@
+.friendList__container {
+  margin: 20px 0 20px 20px;
+}
+
+.friendList__item {
+  border: 1px solid gray;
+  width: 280px;
+  padding: 8px 0 8px 15px;
+  margin-bottom: 10px;
+  box-shadow: 5px 5px 4px 1px rgba(0, 0, 0, 0.3);
+}
