@@ -1,0 +1,35 @@
+.stats__container {
+  margin: 20px 0 0 20px;
+  display: inline-block;
+  outline: 1px solid gray;
+  box-shadow: 10px 10px 8px 2px rgba(0, 0, 0, 0.3);
+}
+
+.stats__label {
+  display: block;
+  text-align: center;
+}
+
+.stats__percentage {
+  display: block;
+  text-align: center;
+}
+
+.stats__item {
+  outline: 1px solid salmon;
+  padding: 15px 0 15px 0;
+  width: 80px;
+  height: 80px;
+}
+
+.stats__list {
+  display: flex;
+}
+
+.stats__title {
+  text-align: center;
+  font-weight: bold;
+  margin: 0;
+  padding: 30px 0 30px 0;
+  text-transform: uppercase;
+}
